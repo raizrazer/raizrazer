@@ -5,7 +5,7 @@
 - 📫 How to reach me you can message me here or email me at 📧raizrazer@gmail.com. ⚠️(please don't spam)
 
 Check out 
-- [Most Basic ToDo (GitHub Pages)](https://github.com/raizrazer/Most-Basic-ToDo). - [🧑‍ GitHub Repo Here💻](https://github.com/raizrazer/Most-Basic-ToDo)
+- [Most Basic ToDo (GitHub Pages)](https://raizrazer.github.io/Most-Basic-ToDo/). - [🧑‍ GitHub Repo Here💻](https://github.com/raizrazer/Most-Basic-ToDo)
 
 
 <!---
