@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raizrazer you can call me __Monkie__ 🐵 too.
 - 👀 I’m interested in basically ___everything___. 😊 I want to see everything.
-- 🌱 I’m currently learning new frameworks for front-end and also working on Node JS Backend.
-- 💞️ I’m looking to collaborate on _"nothing specific"_ ❗
+- 🌱 I’m currently work with front-end frameworks such ReactJS, NextJS, Svelte.
+- 💞️ I’m looking to collaborate on _"Fun Web Projects"_ ❗
 - 📫 How to reach me you can message me here or email me at 📧raizrazer@gmail.com. ⚠️(please don't spam)
 
 Feel free to check out!
