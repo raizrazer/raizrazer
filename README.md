@@ -2,7 +2,7 @@
 - 👀 I’m interested in basically ___everything___. 😊 I want to see everything.
 - 🌱 I’m currently working with front-end frameworks such ReactJS, NextJS, Svelte and Django.
 - 💞️ I’m looking to collaborate on _"Fun Web Projects"_ ❗
-- 📫 How to reach me you can message me here or email me at 📧raizrazer@gmail.com. ⚠️(please don't spam)
+- 📫 To reach me you can message me here or email me at 📧raizrazer@gmail.com. ⚠️(please don't spam)
 
 Feel free to check out!
 
