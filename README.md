@@ -10,7 +10,7 @@ Feel free to check out!
 - [Most Basic ToDo (GitHub Pages)](https://raizrazer.github.io/Most-Basic-ToDo/). - [💻 GitHub Repo Here](https://github.com/raizrazer/Most-Basic-ToDo)
 - [Random Idea Generator (Netlify)](https://random-idea-generator.netlify.app/). - [💻 GitHub Repo Here](https://github.com/raizrazer/Random-Idea-Generator-Developer-Edition)
 
-![Raiz's GitHub stats](https://raiz-github-readme-stats.vercel.app/api?username=raizrazer&show_icons=true&theme=monokai)
+<!--- ![Raiz's GitHub stats](https://raiz-github-readme-stats.vercel.app/api?username=raizrazer&show_icons=true&theme=monokai) --->
 ![Top Langs](https://raiz-github-readme-stats.vercel.app/api/top-langs/?username=raizrazer&layout=compact&theme=monokai)
 <!---
 raizrazer/raizrazer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
